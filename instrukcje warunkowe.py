@@ -13,3 +13,4 @@ elif liczba == 5:
 else:
     print('cytaj uważnie polecenia')
 print('koniec')
+#eef
