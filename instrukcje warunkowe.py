@@ -12,3 +12,4 @@ elif liczba == 5:
     print('pięć')
 
 print('koniec')
+ g
