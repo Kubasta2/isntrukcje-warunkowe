@@ -14,3 +14,4 @@ else:
     print('cytaj uważnie polecenia')
 print('koniec')
 #eef
+print('zad14')
