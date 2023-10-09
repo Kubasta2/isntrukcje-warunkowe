@@ -10,6 +10,6 @@ elif liczba == 4:
     print('cztery')
 elif liczba == 5:
     print('pięć')
-
+else:
+    print('cytaj uważnie polecenia')
 print('koniec')
- g
