@@ -1,1 +1,1 @@
-print('zad14')
+print('zad148')
